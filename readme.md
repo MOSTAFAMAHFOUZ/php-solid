@@ -11,4 +11,3 @@ wrong way and right way are the keys for understanding | SOLID |
     * to demonstrate the wrong code 
   * right 
     * to demonstrate the right code that implement correct principle 
-* 
