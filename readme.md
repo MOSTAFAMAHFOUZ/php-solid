@@ -1,4 +1,4 @@
-# SOLID PRENCIPLES IN PHP 
+# SOLID PRINCIPLES IN PHP 
 ![PHP SOLID](https://res.cloudinary.com/practicaldev/image/fetch/s--5Hg72q0K--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/na8tzr13xs9kganpt486.png)
 --- 
 wrong way and right way are the keys for understanding | SOLID | 
@@ -11,4 +11,3 @@ wrong way and right way are the keys for understanding | SOLID |
     * to demonstrate the wrong code 
   * right 
     * to demonstrate the right code that implement correct principle 
-* 
